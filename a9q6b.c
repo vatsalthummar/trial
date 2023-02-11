@@ -17,7 +17,5 @@ for(m=a;m<=b;m++)
    if(s==m)
    printf("%d\n",s);
 }  
-
-
 return 0;
 }
